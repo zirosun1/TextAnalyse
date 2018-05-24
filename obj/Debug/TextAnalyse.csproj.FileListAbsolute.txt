@@ -1,0 +1,6 @@
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\bin\Debug\TextAnalyse.dll
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\bin\Debug\TextAnalyse.pdb
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\obj\Debug\TextAnalyse.csprojAssemblyReference.cache
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\obj\Debug\TextAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\obj\Debug\TextAnalyse.dll
+C:\Users\hanea\source\repos\TextAnalyse\TextAnalyse\obj\Debug\TextAnalyse.pdb
